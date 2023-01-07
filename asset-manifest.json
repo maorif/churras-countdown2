@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/churras-countdown2/static/css/main.0497a6ac.css",
-    "main.js": "/churras-countdown2/static/js/main.b4bf8c6f.js",
+    "main.css": "/churras-countdown2/static/css/main.1b2af140.css",
+    "main.js": "/churras-countdown2/static/js/main.9749f290.js",
     "static/media/saveiro-pega-no-breu.mp3": "/churras-countdown2/static/media/saveiro-pega-no-breu.1bfc27e16ba390fa550a.mp3",
     "static/media/imagem_churras.jpg": "/churras-countdown2/static/media/imagem_churras.97138e8e493608facfb4.jpg",
     "index.html": "/churras-countdown2/index.html",
-    "main.0497a6ac.css.map": "/churras-countdown2/static/css/main.0497a6ac.css.map",
-    "main.b4bf8c6f.js.map": "/churras-countdown2/static/js/main.b4bf8c6f.js.map"
+    "main.1b2af140.css.map": "/churras-countdown2/static/css/main.1b2af140.css.map",
+    "main.9749f290.js.map": "/churras-countdown2/static/js/main.9749f290.js.map"
   },
   "entrypoints": [
-    "static/css/main.0497a6ac.css",
-    "static/js/main.b4bf8c6f.js"
+    "static/css/main.1b2af140.css",
+    "static/js/main.9749f290.js"
   ]
 }
