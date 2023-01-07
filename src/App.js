@@ -9,9 +9,8 @@ function App() {
       <main>
         <div>
           <div className='countdown-container'>
-            <PlayPegaNoBreu />
-
             <Countdown />
+            <PlayPegaNoBreu />
           </div>
         </div>
       </main>
