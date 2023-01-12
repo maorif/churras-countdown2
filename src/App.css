@@ -35,3 +35,20 @@ main {
   max-width: 80vw;
   border-radius: 2rem;
 }
+
+.countdown-container > div {
+  margin: 7px;
+  padding: 70px;
+  background-image:  url('./assets/butao.png');
+  background-position: center;
+  background-size: 100px;
+  background-repeat: no-repeat;
+  background-color: rgb(000, 000, 152, 0.8);
+  border-radius: 50%;
+}
+
+.countdown-container > div:hover {
+  cursor: pointer;
+  background-color: rgb(000, 000, 152, 0.95);
+  transform: scale(1.1);
+}
